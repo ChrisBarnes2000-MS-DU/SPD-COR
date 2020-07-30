@@ -10,3 +10,6 @@
 [submodule "SPD_1.3/37_Boroughs"]
 	path = SPD_1.3/37_Boroughs
 	url = https://github.com/alannanoguchi/37_Boroughs
+[submodule "SPD_1.41"]
+	path = SPD_1.41
+	url = https://github.com/ChrisBarnes7404/SPD_1.41
