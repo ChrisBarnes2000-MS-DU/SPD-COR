@@ -4,3 +4,9 @@
 [submodule "SPD_1.2/Prototype"]
 	path = SPD_1.2/Prototype
 	url = https://github.com/ChrisBarnes7404/Prototype
+[submodule "SPD_1.3/Core-Git-Branching"]
+	path = SPD_1.3/Core-Git-Branching
+	url = https://github.com/ChrisBarnes7404/Core-Git-Branching
+[submodule "SPD_1.3/37_Boroughs"]
+	path = SPD_1.3/37_Boroughs
+	url = https://github.com/alannanoguchi/37_Boroughs
