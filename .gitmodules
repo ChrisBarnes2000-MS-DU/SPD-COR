@@ -1,0 +1,6 @@
+[submodule "SPD_1.2/Capstone"]
+	path = SPD_1.2/Capstone
+	url = https://github.com/ChrisBarnes7404/capstone
+[submodule "SPD_1.2/Prototype"]
+	path = SPD_1.2/Prototype
+	url = https://github.com/ChrisBarnes7404/Prototype
