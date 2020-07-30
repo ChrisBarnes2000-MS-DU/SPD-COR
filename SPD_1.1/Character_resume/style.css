@@ -1,0 +1,51 @@
+body {
+    background-color: cadetblue !important;
+}
+
+.card {
+    /* Center */
+    margin: 0 auto;
+    float: none;
+    /* Style */
+    box-shadow: 0 4px 8px 0 rgba(0,0,0,0.2);
+    transition: 0.3s;
+    border-radius: 5px;
+    width: 80%;
+}
+
+.card:hover {
+    box-shadow: 0 8px 16px 0 rgba(0,0,0,0.5);
+}
+
+img {
+    border-radius: 5px 5px 0 0;
+}
+
+.container{
+    padding: 2px 16px;
+}
+
+.col-md-1-5 { width: 45%; } 
+/*.col-md-2-5 { width: 20,83333%; } // = 16,6666 + 4,16667
+.col-md-3-5 { width: 29,16667%; } // = 25 + 4,16667
+.col-md-4-5 { width: 37,5%; } // = 33,3333 + 4,16667
+.col-md-5-5 { width: 45,83333%; } // = 41,6667 + 4,16667
+.col-md-6-5 { width: 54,16667%; } // = 50 + 4,16667
+.col-md-7-5 { width: 62,5%; } // = 58,3333 + 4,16667
+.col-md-8-5 { width: 70,83333%; } // = 66,6666 + 4,16667
+.col-md-9-5 { width: 79,16667%; } // = 75 + 4,16667
+.col-md-10-5 { width: 87,5%; } // = 83,3333 + 4,16667
+.col-md-11-5 { width: 95,8333%; } // = 91,6666 + 4,16667*/
+
+div#left {
+    border-right: 5px solid black;
+    margin: 0 auto;
+}
+
+div#right{
+    margin: 0 auto;
+}
+
+h2, h3, p{
+    text-align: center;
+}
