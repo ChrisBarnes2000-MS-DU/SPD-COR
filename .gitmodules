@@ -13,3 +13,6 @@
 [submodule "SPD_1.41"]
 	path = SPD_1.41
 	url = https://github.com/ChrisBarnes7404/SPD_1.41
+[submodule "SPD_1.5"]
+	path = SPD_1.5
+	url = https://github.com/ChrisBarnes7404/SPD_1.5
