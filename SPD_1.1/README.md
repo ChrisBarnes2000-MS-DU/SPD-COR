@@ -6,8 +6,8 @@ This course covers how to build products that people love. Key concepts include 
 
 ### Projects Built
 
-- [Character Resume](./Character_resume)
-- [Launch Pad](./SPD_Launch_Pad)
-- [10_23_Bootstrap](./SPD_10_23_Bootstrap)
+- [Character Resume](./Character_resume): Character combination of Iron Man & Batman to obtain the IronBat resume
+- [Launch Pad](./SPD_Launch_Pad): Simple landing page/future project idea campfire launch page
+- [10_23_Bootstrap](./SPD_10_23_Bootstrap): Modified copy of https://www.discuvver.com/ a random site pulled
 
 #### Author: Chris Barnes
